@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-081j-plates-and-shells-spring-2007/c2de6e509cb35145a64fdc309cbc3c93_homework1.pdf
+file: /media/courses/2-081j-plates-and-shells-spring-2007/c2de6e509cb35145a64fdc309cbc3c93_homework1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: homework1.pdf
 uid: c2de6e50-9cb3-5145-a64f-dc309cbc3c93

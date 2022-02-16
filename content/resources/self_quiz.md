@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Self-evaluation quiz.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-081j-plates-and-shells-spring-2007/eb71e11c29566b4cd69a5bf3dd66b575_self_quiz.pdf
+file: /media/courses/2-081j-plates-and-shells-spring-2007/eb71e11c29566b4cd69a5bf3dd66b575_self_quiz.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: self_quiz.pdf
 uid: eb71e11c-2956-6b4c-d69a-5bf3dd66b575
