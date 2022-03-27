@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4761bf74-1357-42f8-8d39-4c7a6233df04
 resourcetype: Document
 title: analysis.pdf
 uid: e39f5571-cf7d-939a-84d9-d284e128fc2a
