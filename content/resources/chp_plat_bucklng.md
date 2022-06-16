@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-081j-plates-and-shells-spring-2007/6dce17aee2171bcf6236cf8b094ff95b_chp_plat_bucklng.jpg
+file: /courses/2-081j-plates-and-shells-spring-2007/6dce17aee2171bcf6236cf8b094ff95b_chp_plat_bucklng.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
