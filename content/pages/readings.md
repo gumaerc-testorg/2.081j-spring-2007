@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section presents Prof. Wierzbicki's complete monograph-style
+  notes for the course, plus an extensive list of supplementary references.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4761bf74-1357-42f8-8d39-4c7a6233df04
 ---
@@ -9,9 +14,9 @@ This page presents Prof. Wierzbicki's complete monograph-style notes for the cou
 Course Notes
 ------------
 
-_Part I:  Plates and Shells_ ([PDF - 2.0 MB]({{< baseurl >}}/resources/lecturenote))
+_Part I:  Plates and Shells_ ({{% resource_link 1bd32d64-1a2b-41ca-5185-91d981405393 "PDF - 2.0 MB" %}})
 
-_Part II:  Plastic Analysis of Plates and Shells_ ([PDF - 2.2 MB]({{< baseurl >}}/resources/analysis))
+_Part II:  Plastic Analysis of Plates and Shells_ ({{% resource_link e39f5571-cf7d-939a-84d9-d284e128fc2a "PDF - 2.2 MB" %}})
 
 Supplementary Readings
 ----------------------
