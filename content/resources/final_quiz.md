@@ -2,6 +2,7 @@
 content_type: resource
 description: The final quiz of the course.
 file: /courses/2-081j-plates-and-shells-spring-2007/ad1af350130bc9ff001d905572979dfe_final_quiz.pdf
+file_size: 157898
 file_type: application/pdf
 learning_resource_types:
 - Exams
