@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-081j-plates-and-shells-spring-2007/6dce17aee2171bcf6236cf8b094ff95b_chp_plat_bucklng.jpg
+file_size: 33754
 file_type: image/jpeg
 image_metadata:
   caption: ''
