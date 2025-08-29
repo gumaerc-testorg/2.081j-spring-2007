@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The first part of Prof. Wierzbicki''s complete monograph-style notes
   for the course: Plates and Shells.'
-file: /courses/2-081j-plates-and-shells-spring-2007/1bd32d641a2b41ca518591d981405393_lecturenote.pdf
+file: /ol-ocw-studio-app/courses/2-081j-plates-and-shells-spring-2007/1bd32d641a2b41ca518591d981405393_lecturenote.pdf
 file_size: 2103014
 file_type: application/pdf
 learning_resource_types:
