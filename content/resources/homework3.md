@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/2-081j-plates-and-shells-spring-2007/7c61aa836619913c16a808190dad6cce_homework3.pdf
+file: /ol-ocw-studio-app/courses/2-081j-plates-and-shells-spring-2007/7c61aa836619913c16a808190dad6cce_homework3.pdf
 file_size: 98187
 file_type: application/pdf
 learning_resource_types:
