@@ -49,7 +49,7 @@ Mroz, Z. _Mathematical Models of Inelastic Material Behavior_. Waterloo, ON: Uni
 
 Kachanov, L. _Fundamentals of the Theory of Plasticity_. Moscow, Russia: Mir Publishers, 1974.
 
-{{% resource_link "e646e6ae-eae7-4bfa-a448-3964b95069c8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Martin, J. B. {{% resource_link "e646e6ae-eae7-4bfa-a448-3964b95069c8" "_Plasticity: Fundamental and General Results_" %}}. Cambridge, MA: MIT Press, 1975. ISBN: 9780262131148.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262131148) Martin, J. B. [_Plasticity: Fundamental and General Results_](https://mitpress.mit.edu/9780262131148). Cambridge, MA: MIT Press, 1975. ISBN: 9780262131148.
 
 Zyczkowski, M. _Combined Loadings in the Theory of Plasticity_. Warsaw, Poland: PWN, Polish Scientific Publishers, 1981.
 
